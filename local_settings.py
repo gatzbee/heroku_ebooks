@@ -6,7 +6,7 @@ Local Settings for a heroku_ebooks account. #fill in the name of the account you
 MY_CONSUMER_KEY = 'm5Yo5cA0Wz6jXFKe2aLEhTLiI'
 MY_CONSUMER_SECRET = 'badSbsc7lhAlp7diGEsX41XFWm8UXiVz7EsnidOUQbBLcrOk0k'
 MY_ACCESS_TOKEN_KEY = '67645636-O0faN878wJoWb4P1jqXtJRghHlHntDl1p5SLeugk6'
-MY_ACCESS_TOKEN_SECRET = '	ECIh0sYhvNc5KqZmhXCJFmfOhVJfTLGTVuqGpv0mU9CR4'
+MY_ACCESS_TOKEN_SECRET = 'ECIh0sYhvNc5KqZmhXCJFmfOhVJfTLGTVuqGpv0mU9CR4'
 
 SOURCE_ACCOUNTS = ["gatzby_, theoddestbrain, haishidao"] #A list of comma-separated, quote-enclosed Twitter handles of account that you'll generate tweets based on. It should look like ["account1", "account2"]. If you want just one account, no comma needed.
 ODDS = 8 #How often do you want this to run? 1/8 times?
